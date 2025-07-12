@@ -1,0 +1,59 @@
+{
+  "personal_information": {
+    "name": "Sample User",
+    "email": "sample@example.com",
+    "phone": "+1-555-0123",
+    "city": "Sample City",
+    "country": "Sample Country"
+  },
+  "summary": "Experienced software developer with expertise in Python, JavaScript, and React.",
+  "education": [
+    {
+      "school": "Sample University",
+      "degree": "Bachelor of Science",
+      "start_year": "2018",
+      "end_year": "2022",
+      "major": "Computer Science",
+      "gpa": "3.8"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Sample Tech Corp",
+      "role": "Software Engineer",
+      "start_year": "2022",
+      "end_year": "Present",
+      "city": "Sample City",
+      "country": "Sample Country",
+      "description": "Developed web applications using React and Node.js"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Sample Project",
+      "start_year": "2021",
+      "end_year": "2022",
+      "description": "Built a full-stack web application"
+    }
+  ],
+  "certifications": [],
+  "awards": [],
+  "skills": [
+    "Python",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "SQL",
+    "Git"
+  ],
+  "is_resume": true,
+  "extraction_metadata": {
+    "file_path": "uploads/resumes/7dd916ec-36c0-48dc-b363-bd62b71dcdd8_inesh_internship_resume20.pdf",
+    "file_size": 70643,
+    "extraction_time": 0.016925334930419922,
+    "pages_count": 2,
+    "characters_count": 1820,
+    "words_count": 237,
+    "extraction_errors": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "personal_information": {
+    "name": "INESH SHANMUGAM",
+    "email": "ineshshanmugam@gmail.com",
+    "phone": "9663994950",
+    "city": null,
+    "country": null
+  },
+  "summary": "Enthusiastic and proactive Computer Science student in the 4th semester, seeking an internship to apply academic knowledge in a real-world setting. Eager to learn and excited to contribute to a dynamic team environment.",
+  "education": [
+    {
+      "school": "PES University",
+      "degree": "Bachelor of Computer Science",
+      "start_year": null,
+      "end_year": "2027",
+      "major": null,
+      "gpa": null
+    }
+  ],
+  "work_experience": [],
+  "projects": [
+    {
+      "name": "Random OTP Generator Using Python",
+      "start_year": null,
+      "end_year": null,
+      "description": "Developed a program that generates an OTP when a 10-digit number is entered. Implemented a GUI and used various Python modules."
+    },
+    {
+      "name": "Child-Friendly Newsletter",
+      "start_year": null,
+      "end_year": null,
+      "description": "Created a platform that converts standard news articles into child-friendly versions with quizzes. Developed the front end of the website using HTML, Java, and integrated it with the backend using MongoDB."
+    },
+    {
+      "name": "Smart Air Quality Monitoring System Using Arduino",
+      "start_year": null,
+      "end_year": null,
+      "description": "Ongoing project focused on real-time air quality monitoring using Arduino."
+    }
+  ],
+  "certifications": [],
+  "awards": [
+    {
+      "title": "Winner of a Roller Ball Championship",
+      "issuer": null,
+      "year": null
+    }
+  ],
+  "skills": [
+    "Python",
+    "HTML",
+    "Java",
+    "C",
+    "MongoDB",
+    "Teamwork",
+    "Communication",
+    "Leadership",
+    "Problem-Solving",
+    "English",
+    "Hindi",
+    "Tamil",
+    "Kannada"
+  ],
+  "is_resume": true,
+  "extraction_metadata": {
+    "file_path": "uploads/resumes/e3da4e37-cc9c-431a-8b51-47940e7b8fdf_inesh_internship_resume20.pdf",
+    "file_size": 70643,
+    "extraction_time": 0.01750326156616211,
+    "pages_count": 2,
+    "characters_count": 1820,
+    "words_count": 237,
+    "extraction_errors": []
+  }
+}
