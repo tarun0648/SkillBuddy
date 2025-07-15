@@ -1,0 +1,22 @@
+# Ignore environment files
+.env
+
+# Ignore service account files
+serviceAccountKey.json
+service-account.json
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+ENV/
+env/
+
+# macOS
+.DS_Store
+
+# Node (if any)
+node_modules/
